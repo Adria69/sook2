@@ -2,7 +2,7 @@
   "name": "@sooks/use-title",
   "version": "1.0.0",
   "description": "React hook that update Page's Title",
-  "main": "dist/index.js",
+  "main": "dist/useTitle.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
