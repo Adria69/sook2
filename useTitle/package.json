@@ -2,7 +2,7 @@
   "name": "@sooks/use-title",
   "version": "1.0.0",
   "description": "React hook that update Page's Title",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -21,5 +21,9 @@
   "bugs": {
     "url": "https://github.com/bwmelon97/Sooks/issues"
   },
-  "homepage": "https://github.com/bwmelon97/Sooks#readme"
+  "homepage": "https://github.com/bwmelon97/Sooks#readme",
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
 }
