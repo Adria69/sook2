@@ -1,5 +1,5 @@
 {
-  "name": "@sooks/use-title",
+  "name": "@soogeun-hooks/use-title",
   "version": "1.0.0",
   "description": "React hook that update Page's Title",
   "main": "dist/useTitle.js",
