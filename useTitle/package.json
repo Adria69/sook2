@@ -1,0 +1,25 @@
+{
+  "name": "@sooks/use-title",
+  "version": "1.0.0",
+  "description": "React hook that update Page's Title",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bwmelon97/Sooks.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "title",
+    "update title"
+  ],
+  "author": "Park Soogeun <bwmelon97@naver.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bwmelon97/Sooks/issues"
+  },
+  "homepage": "https://github.com/bwmelon97/Sooks#readme"
+}
